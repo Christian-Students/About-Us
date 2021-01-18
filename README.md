@@ -1,4 +1,4 @@
-## About-Us
+## About-Us <p align="center">
 
 We are Christians on University Campuses across Australia who love the Lord Jesus and Love His Word the Bible.
 
