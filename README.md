@@ -1,6 +1,6 @@
  ## About Us
 
-![Lake Moogerah](image-4352.jpg)
+![Lake Moogerah](IMG-4352.jpg)
 
 <p align="justify" > We are Christians on University Campuses across Australia who love the Lord Jesus and Love His Word the Bible. 
 
