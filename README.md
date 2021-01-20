@@ -16,11 +16,12 @@
   action="https://formspree.io/f/mnqowpzv"
   method="POST">
     
-  <label>
+  <label align="center">
     Your email:
     <input type="text" name="_replyto">
   </label>
-  <label>
+  
+  <label align="center">
     Your message:
     <textarea name="message"></textarea>
   </label>
