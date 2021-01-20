@@ -11,11 +11,11 @@
 
 <p align="justify">To contact us please navigate to the club nearest to you in the 'clubs' tab. Alternatively you can contact us using the form below. Don't worry if you do not study at one of the universities listed, we still would like to have fellowship with you! We are connected with many Christians in the wider community and would love to connect with you and get you connected</p>
 
-<p align="justify"> 
+<p align="center"> 
   <form
   action="https://formspree.io/f/mnqowpzv"
-  method="POST"
->
+  method="POST">
+    
   <label>
     Your email:
     <input type="text" name="_replyto">
