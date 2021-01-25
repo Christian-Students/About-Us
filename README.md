@@ -38,7 +38,10 @@
   </p>
   <!-- your other form fields go here -->
 
+  <p align="center">
   <button type="submit">Send</button>
+  </p>
+  
 </form>
 </p>
 
