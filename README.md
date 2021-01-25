@@ -5,7 +5,7 @@
 <body background="blue sky.jpg">
   <h1 align="center"> Welcome to Christian Students Australia</h1>
 
-<p align="justify" background="White Sky.jpg"> We are Christians on University Campuses across Australia who love the Lord Jesus and love His Word the Bible. We desire to have fellowship with all Christians and genuine seekers of Christ as well as to speak the word of Christ to all creation.</p> 
+<p align="justify"> We are Christians on University Campuses across Australia who love the Lord Jesus and love His Word the Bible. We desire to have fellowship with all Christians and genuine seekers of Christ as well as to speak the word of Christ to all creation.</p> 
   
 <p align="justify"> We are connected with Christian students on many Universities across australia as well as Christian communities on the University of New South Wales, the University of Queensland and Monash University. These communities run activites, have regular Bible studies on campus and meet up to have fellowship with other Christians in the community.</p>
 
@@ -21,7 +21,7 @@
   </p>
   <p align="left">
   <label>
-    <input type="text" style="width:75%">
+    <input type="text">
   </label>
   </p>
   
@@ -35,11 +35,11 @@
   </p>
   
   <p align="justify">
-  Briefly tell us about yourself so we can point you in the right direction and connect you with the right people. (Please include your current year of study and your field of study):
+  Briefly tell us about yourself so we can point you in the right direction and connect you with the right people. (Please include your current year at university and your field of study):
   </p>
   <p align="left"> 
   <label>
-    <textarea name="message"></textarea>
+    <textarea name="message" style="width:100%"></textarea>
   </label>
   </p>
   
