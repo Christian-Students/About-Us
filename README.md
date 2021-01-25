@@ -1,8 +1,8 @@
-<body background="white sky.jpg">
+<body background="White Sky.jpg">
 
 <html>
 
-<body background="white sky.jpg">
+<body background="White Sky.jpg">
   <h1 align="center"> Welcome to Christian Students Australia</h1>
 
 <p align="justify" > We are Christians on University Campuses across Australia who love the Lord Jesus and love His Word the Bible. We desire to have fellowship with all Christians and genuine seekers of Christ as well as to speak the word of Christ to all creation.</p> 
