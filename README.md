@@ -1,8 +1,8 @@
-<body background="White Sky.jpg">
+<body background="blue sky.jpg">
 
 <html>
 
-<body background="White Sky.jpg">
+<body background="blue sky.jpg">
   <h1 align="center"> Welcome to Christian Students Australia</h1>
 
 <p align="justify" background="White Sky.jpg"> We are Christians on University Campuses across Australia who love the Lord Jesus and love His Word the Bible. We desire to have fellowship with all Christians and genuine seekers of Christ as well as to speak the word of Christ to all creation.</p> 
@@ -19,9 +19,9 @@
   <p align="left">
   Name:
   </p>
-  <p align="left" style="font-size:50%;">
+  <p align="left">
   <label>
-    <textarea name="message"></textarea>
+    <input type="text" style="width:75%">
   </label>
   </p>
   
@@ -34,10 +34,10 @@
   </label>
   </p>
   
-  <p align="left">
-  Briefly tell us about yourself (including what you study and what is your current year of study) so we can point you in the right direction and connect you with the right people:
+  <p align="justify">
+  Briefly tell us about yourself so we can point you in the right direction and connect you with the right people. (Please include your current year of study and your field of study):
   </p>
-  <p align="left" style="font-size:175%;"> 
+  <p align="left"> 
   <label>
     <textarea name="message"></textarea>
   </label>
@@ -64,7 +64,7 @@
   </p>
   <p align="left">
   <label>
-    <textarea name="message" style="width:50%"></textarea>
+    <input type="text" style="width:50%">
   </label>
   </p>
 
