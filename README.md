@@ -2,7 +2,7 @@
 
 <html>
 
-<body background="IMG-4352.jpg">
+<body background="viber_image_2021-01-25_10-54-09.jpg">
   <h1 align="center"> Welcome to Christian Students Australia</h1>
 
 <p align="justify" > We are Christians on University Campuses across Australia who love the Lord Jesus and love His Word the Bible. We desire to have fellowship with all Christians and genuine seekers of Christ as well as to speak the word of Christ to all creation.</p> 
@@ -16,16 +16,26 @@
   action="https://formspree.io/f/mnqowpzv"
   method="POST">
     
+  <p align="center">
+  <label align="center">
+    Your Name:
+    <textarea name="message"></textarea>
+  </label>
+  </p>
+  
+  <p align="center">
   <label align="center">
     Your email:
     <input type="text" name="_replyto">
   </label>
+  </p>
   
+  <p align="center">
   <label align="center">
-    Your message:
+    Briefly tell us about yourself so we can point you in the right direction and connect you with the right people:
     <textarea name="message"></textarea>
   </label>
-
+  </p>
   <!-- your other form fields go here -->
 
   <button type="submit">Send</button>
