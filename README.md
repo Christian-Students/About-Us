@@ -39,7 +39,7 @@
   </p>
   <p align="left"> 
   <label>
-    <textarea name="message" style="width:100%" style="height:300%"></textarea>
+    <textarea name="message" style="width:100%"></textarea>
   </label>
   </p>
   
