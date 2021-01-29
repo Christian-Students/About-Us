@@ -7,7 +7,7 @@
 
 <p align="justify"> We are Christians on university campuses across Australia who love the Lord Jesus and His Word, the Bible. We desire to have fellowship with all Christians and genuine seekers of Christ as well as to speak the word of Christ to all creation.</p> 
   
-<p align="justify"> We are connected with Christian students on many universities across Australia as well as Christian communities on the University of New South Wales, the University of Queensland and many universities in Melbourne. These communities run activites, have regular Bible studies on campus and meet up to have fellowship with other Christians in the community.</p>
+<p align="justify"> We are connected with Christian students on many universities across Australia as well as Christian communities on the University of New South Wales, the University of Queensland and many universities in Melbourne. These communities run activities, have regular Bible studies on campus and meet up to have fellowship with other Christians in the community.</p>
 
 <p align="justify">To contact us, please navigate to the campus nearest to you in the 'Campuses' tab. Alternatively you can contact us using the form below. Don't worry if you do not study at one of the universities listed, we still would like to have fellowship with you! We are connected with many Christians in the wider community and would love to connect with you and get you connected.</p>
 
