@@ -13,7 +13,7 @@
 
 <p align="center"> 
   <form
-  action="https://formspree.io/f/mnqowpzv"
+  action="https://formspree.io/f/xqkgojvv" 
   method="POST">
     
   <p align="left">
